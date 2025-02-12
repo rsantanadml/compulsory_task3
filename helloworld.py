@@ -1,6 +1,12 @@
 def calculate_sum(a, b):
-return a + b
+"""
+Calculates the sum of two numbers.
 
-# Function that calculates the sum of two numbers
-def calculate_sum(a, b):
+Args:
+a (int or float): The first number.
+b (int or float): The second number.
+
+Returns:
+int or float: The sum of a and b.
+"""
 return a + b
